@@ -1,0 +1,18 @@
+1.CHARM ALGORITHM DIRECTLY RUNS IN ONE FILE:
+	a.Give minsup value and input file and run
+	b.you will have covid****_CHARM_out.txt as result
+
+
+2. DCI_Closed ALGORITHM HAS FUNCTIONS IN "DCI_Closed" and 
+RUNS OVER "dci_test" file:
+	a.Give minsup value, file size and input file name and run
+	b. you will have covid****_dci_out.txt file as result
+
+
+3.TO GET DATA FROM TWITTER USE "twitter_data" algorithm
+	a.Give the number of tweets and run
+	b.Output file will be like "covid****.txt"
+	C.It will also produce word cloud image of words in tweets
+
+4.TO PLOT THE OUTPUTS OF THE ALGORITHMS
+	a.Use "graph" file
